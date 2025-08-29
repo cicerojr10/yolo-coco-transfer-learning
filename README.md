@@ -45,7 +45,7 @@ Siga os passos abaixo para executar o projeto:
 3.  **Utilizar o modelo treinado:**
     O arquivo final de pesos do modelo (`yolov3_final.weights`) pode ser baixado no link abaixo:
 
-    👉 **[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cicerojr10/yolo-coco-transfer-learning/blob/main/notebook_colab.ipynb)**
+    👉 **[![Abrir no Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cicerojr10/yolo-coco-transfer-learning/blob/main/notebook_colab.ipynb](https://colab.research.google.com/drive/1PW49FNu_Ns0CnYq9UzKOQln6X0Le4oKa?usp=sharing))**
 
 ---
 
