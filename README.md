@@ -75,11 +75,11 @@ yolo-coco-transfer-learning/
 │
 └── yolov3_final.weights    # Modelo treinado (se for pequeno, senão use o link no README) ```
 
-
+---
 
 ## 👨‍💻 Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/SEU_USER_ID?v=4" width="100px;"/><br /><sub><b>Cícero Quintino Junior</b></sub>](https://github.com/cicerojr10)<br /> |
+| [<img src="https://avatars.githubusercontent.com/u/SEU_USER_ID_AQUI?v=4" width="100px;"/><br /><sub><b>Cícero Quintino Junior</b></sub>](https://github.com/SEU_USUARIO_AQUI)<br /> |
 | :---: |
 
 Estudante de Ciência da Computação.
