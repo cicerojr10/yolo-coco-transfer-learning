@@ -57,7 +57,7 @@ Abaixo, um exemplo de detecção obtida com o modelo treinado:
 
 ## 📂 Estrutura do Repositório
 
-```
+```text
 yolo-coco-transfer-learning/
 │
 ├── README.md               # Explicação do projeto
@@ -73,13 +73,14 @@ yolo-coco-transfer-learning/
 │   ├── obj.names
 │   └── yolov3.cfg
 │
-└── yolov3_final.weights    # Modelo treinado (se for pequeno, senão use o link no README) ```
+└── yolov3_final.weights    # Modelo treinado (se for pequeno, senão use o link no README)
+```
 
 ---
 
 ## 👨‍💻 Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/SEU_USER_ID_AQUI?v=4" width="100px;"/><br /><sub><b>Cícero Quintino Junior</b></sub>](https://github.com/SEU_USUARIO_AQUI)<br /> |
+| [<img src="https://avatars.githubusercontent.com/u/SEU_USER_ID_AQUI?v=4" width="100px;"/><br /><sub><b>Cícero Quintino Junior</b></sub>](https://github.com/cicerojr10)<br /> |
 | :---: |
 
 Estudante de Ciência da Computação.
