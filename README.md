@@ -15,7 +15,7 @@ Para a execução e treinamento do modelo, foram utilizados os recursos do **Goo
 -   [Google Colab](https://colab.research.google.com/)
 -   [Darknet YOLO](https://pjreddie.com/darknet/yolo/)
 -   [COCO Dataset](https://cocodataset.org/)
--   Python 3
+-   [Python 3](https://python.org/)
 
 ---
 
@@ -45,7 +45,7 @@ Siga os passos abaixo para executar o projeto:
 3.  **Utilizar o modelo treinado:**
     O arquivo final de pesos do modelo (`yolov3_final.weights`) pode ser baixado no link abaixo:
 
-    👉 **[Download do modelo treinado](LINK_PARA_O_DRIVE_OU_GITHUB_RELEASES)**
+    👉 **[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cicerojr10/yolo-coco-transfer-learning/blob/main/notebook_colab.ipynb)**
 
 ---
 
